@@ -1,5 +1,3 @@
-![](C:\Users\admin\Desktop\java.jpg)
-
 # Land-Learning 
 
 \> Land 学习教程，架构、业务、技术要点全方位解析。
