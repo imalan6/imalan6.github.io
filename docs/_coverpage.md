@@ -1,9 +1,11 @@
-# Land-Learning 
 
-\> Land 学习教程，架构、业务、技术要点全方位解析。
 
-Land 是一款帮助Java面试的开源系统， 可以用零碎时间利用小程序查看常见面试题，夯实Java基础。 采用流行的技术，如 SpringBoot、MyBatis、Redis、 MySql、 MongoDB、 RabbitMQ、Elasticsearch，采用Docker容器化部署。 
+<img src="_media/07.png"  width="250" />
 
-[GitHub](https://github.com/imalan6)
+> `* Alan Notes *`：Java核心、微服务、系统架构、数据库、设计模式、大数据等笔记整理。
 
-[Get Started](README.md)
+<br>
+
+<br>
+
+[Get Started](#introduction)
